@@ -1,0 +1,15 @@
+Abstract— Deaf- hearing communication
+barriers still exist in education, the workplace, and social
+life. This paper presents AWAAJ, a real- time, AI- based
+mobile app for two- way translation between
+Indo- Pakistani Sign Language (IPSL) and English text or
+voice. The system combines MediaPipe Holistic tracking
+and a YOLO- based hand detection module for reliable
+gesture recognition in different conditions. AWAAJ also
+has an interactive, gamified ISL learning environment
+featuring quizzes, progress tracking, dictionary and
+games to boost user engagement and retention.
+Preliminary user- testing with deaf users shows 82%
+accuracy in translation. Built to be deployed in schools
+and public services, AWAAJ promotes inclusive
+communication and accessible technology innovation.
