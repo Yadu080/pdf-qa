@@ -64,11 +64,3 @@ AI: Based on preliminary testing, it achieves 82% accuracy in translation.
 - How to structure a Python project professionally with venv and .env
 - Git basics — version controlling a real project
 
-## 🗺️ What's next
-- Adding PDF support (not just .txt files)
-- Implementing vector embeddings for smarter retrieval
-- Building a full RAG pipeline
-- Wrapping it in a FastAPI backend
-
----
-*Part of my AI/ML internship preparation roadmap — building real projects from scratch.*
